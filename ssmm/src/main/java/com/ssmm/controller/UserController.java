@@ -37,4 +37,9 @@ public class UserController {
 	public String show() {
 		return "user/index" ;
 	}
+	
+	@RequestMapping("/angulr")
+	public String angulrShow() {
+		return "user/indexToAngulrIndex" ;
+	}
 }

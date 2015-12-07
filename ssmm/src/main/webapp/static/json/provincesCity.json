@@ -1,0 +1,4140 @@
+
+
+
+	var provincesCities = {};
+	
+		
+			
+			
+				provincesCities['0011'] = {};
+				provincesCities['0011']['1100'] = '北京市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0011']['1100'] = '北京市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0012'] = {};
+				provincesCities['0012']['1200'] = '天津市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0012']['1200'] = '天津市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0013'] = {};
+				provincesCities['0013']['1301'] = '石家庄市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0013']['1302'] = '保定市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0013']['1303'] = '沧州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0013']['1304'] = '承德市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0013']['1305'] = '邯郸市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0013']['1306'] = '衡水市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0013']['1307'] = '廊坊市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0013']['1308'] = '秦皇岛市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0013']['1309'] = '唐山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0013']['1310'] = '邢台市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0013']['1311'] = '张家口市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0014'] = {};
+				provincesCities['0014']['1401'] = '太原市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0014']['1402'] = '长治市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0014']['1403'] = '大同市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0014']['1404'] = '晋城市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0014']['1406'] = '临汾市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0014']['1407'] = '朔州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0014']['1408'] = '忻州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0014']['1409'] = '阳泉市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0014']['1411'] = '运城市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0014']['1412'] = '晋中市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0014']['1413'] = '吕梁地区';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0015'] = {};
+				provincesCities['0015']['1501'] = '呼和浩特市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0015']['1502'] = '包头市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0015']['1503'] = '阿拉善盟';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0015']['1504'] = '巴彦淖尔盟';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0015']['1505'] = '赤峰市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0015']['1506'] = '呼伦贝尔盟';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0015']['1507'] = '乌海市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0015']['1508'] = '乌兰察布盟';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0015']['1509'] = '锡林郭勒盟';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0015']['1510'] = '兴安盟';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0015']['1511'] = '鄂尔多斯';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0015']['1512'] = '通辽市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0015']['1513'] = '满洲里';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0021'] = {};
+				provincesCities['0021']['2101'] = '沈阳市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2102'] = '大连市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2103'] = '鞍山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2104'] = '本溪市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2105'] = '朝阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2106'] = '丹东市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2107'] = '抚顺市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2108'] = '阜新市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2109'] = '葫芦岛市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2110'] = '锦州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2111'] = '辽阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2112'] = '盘锦市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2113'] = '铁岭市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0021']['2114'] = '营口市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0022'] = {};
+				provincesCities['0022']['2201'] = '长春市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0022']['2202'] = '白城市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0022']['2203'] = '白山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0022']['2204'] = '吉林市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0022']['2205'] = '辽源市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0022']['2206'] = '四平市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0022']['2207'] = '松原市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0022']['2208'] = '通化市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0022']['2209'] = '延边朝鲜族自治州';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0023'] = {};
+				provincesCities['0023']['2301'] = '哈尔滨市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0023']['2302'] = '大庆市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0023']['2303'] = '大兴安岭地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0023']['2304'] = '鹤岗市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0023']['2305'] = '黑河市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0023']['2306'] = '鸡西市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0023']['2307'] = '佳木斯市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0023']['2308'] = '牡丹江市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0023']['2309'] = '七台河市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0023']['2310'] = '齐齐哈尔市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0023']['2311'] = '双鸭山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0023']['2312'] = '绥化市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0023']['2313'] = '伊春市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0031'] = {};
+				provincesCities['0031']['3100'] = '市辖区';
+			
+		
+		
+	
+		
+			
+				provincesCities['0031']['3100'] = '县';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0032'] = {};
+				provincesCities['0032']['3201'] = '南京市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3202'] = '常州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3203'] = '淮市安';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3204'] = '连云港市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3205'] = '南通市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3206'] = '苏州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3207'] = '宿迁市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3208'] = '泰州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3209'] = '无锡市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3210'] = '徐州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3211'] = '盐城市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3212'] = '扬州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3213'] = '镇江市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0032']['3215'] = '昆山市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0033'] = {};
+				provincesCities['0033']['3301'] = '杭州市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0033']['3302'] = '宁波市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0033']['3303'] = '湖州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0033']['3304'] = '嘉兴市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0033']['3305'] = '金华市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0033']['3306'] = '绍兴市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0033']['3307'] = '台州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0033']['3308'] = '温州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0033']['3309'] = '舟山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0033']['3310'] = '衢州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0033']['3311'] = '丽水市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0034'] = {};
+				provincesCities['0034']['3401'] = '合肥市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3402'] = '安庆市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3403'] = '蚌埠市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3404'] = '巢湖市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3405'] = '池州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3406'] = '滁州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3407'] = '阜阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3408'] = '淮北市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3409'] = '淮南市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3410'] = '黄山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3411'] = '六安市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3412'] = '马鞍山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3414'] = '铜陵市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3415'] = '芜湖市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3416'] = '宣城市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3417'] = '亳州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0034']['3418'] = '宿州市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0035'] = {};
+				provincesCities['0035']['3501'] = '福州市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0035']['3502'] = '厦门市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0035']['3503'] = '龙岩市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0035']['3504'] = '南平市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0035']['3505'] = '宁德市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0035']['3506'] = '莆田市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0035']['3507'] = '泉州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0035']['3508'] = '三明市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0035']['3509'] = '漳州市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0036'] = {};
+				provincesCities['0036']['3601'] = '南昌市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0036']['3602'] = '抚州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0036']['3603'] = '赣州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0036']['3604'] = '吉安市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0036']['3605'] = '景德镇市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0036']['3606'] = '九江市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0036']['3607'] = '萍乡市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0036']['3608'] = '上饶市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0036']['3609'] = '新余市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0036']['3610'] = '宜春市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0036']['3611'] = '鹰潭市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0037'] = {};
+				provincesCities['0037']['3701'] = '济南市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3702'] = '青岛市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3703'] = '滨州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3704'] = '德州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3705'] = '东营市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3706'] = '菏泽市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3707'] = '济宁市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3708'] = '莱芜市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3709'] = '聊城市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3710'] = '临沂市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3711'] = '日照市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3712'] = '泰安市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3713'] = '威海市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3714'] = '潍坊市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3715'] = '烟台市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3716'] = '枣庄市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0037']['3717'] = '淄博市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0041'] = {};
+				provincesCities['0041']['4101'] = '郑州市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4102'] = '安阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4103'] = '焦作市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4104'] = '鹤壁市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4105'] = '开封市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4106'] = '洛阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4107'] = '南阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4108'] = '平顶山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4109'] = '三门峡市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4110'] = '商丘市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4111'] = '新乡市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4112'] = '信阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4113'] = '许昌市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4114'] = '周口市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4115'] = '驻马店市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4116'] = '漯河市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4117'] = '濮阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0041']['4118'] = '济源市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0042'] = {};
+				provincesCities['0042']['4201'] = '武汉市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0042']['4202'] = '鄂州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0042']['4203'] = '恩施土家族苗族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0042']['4204'] = '黄冈市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0042']['4205'] = '黄石市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0042']['4206'] = '荆门市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0042']['4207'] = '荆州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0042']['4208'] = '十堰市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0042']['4209'] = '随州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0042']['4210'] = '咸宁市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0042']['4211'] = '襄樊市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0042']['4212'] = '孝感市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0042']['4215'] = '宜昌市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0043'] = {};
+				provincesCities['0043']['4301'] = '长沙市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4302'] = '常德市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4303'] = '郴州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4304'] = '衡阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4305'] = '怀化市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4306'] = '娄底市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4307'] = '邵阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4308'] = '湘潭市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4309'] = '湘西土家族苗族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4310'] = '益阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4311'] = '永州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4312'] = '岳阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4313'] = '张家界市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0043']['4314'] = '株洲市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0044'] = {};
+				provincesCities['0044']['4401'] = '广州市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4402'] = '深圳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4403'] = '潮州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4404'] = '东莞市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4405'] = '佛山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4406'] = '惠州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4407'] = '江门市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4408'] = '揭阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4409'] = '茂名市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4410'] = '梅州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4411'] = '清远市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4412'] = '汕头市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4413'] = '汕尾市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4414'] = '韶关市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4415'] = '阳江市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4416'] = '云浮市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4417'] = '湛江市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4418'] = '肇庆市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4419'] = '中山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4420'] = '河源市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0044']['4421'] = '珠海市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0045'] = {};
+				provincesCities['0045']['4501'] = '南宁市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4502'] = '百色市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4503'] = '北海市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4504'] = '桂林市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4505'] = '河池市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4506'] = '柳州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4507'] = '梧州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4508'] = '玉林市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4509'] = '崇左市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4510'] = '防城港市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4511'] = '贵港市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4512'] = '贺州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4513'] = '来宾市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0045']['4514'] = '钦州市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0046'] = {};
+				provincesCities['0046']['4601'] = '海口市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4602'] = '三亚市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4603'] = '白沙黎族自治县';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4604'] = '保亭黎族苗族自治县';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4605'] = '昌江黎族自治县';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4606'] = '澄迈县';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4607'] = '儋州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4608'] = '定安县';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4609'] = '东方市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4610'] = '乐东黎族自治县';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4611'] = '临高县';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4612'] = '陵水黎族自治县';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4613'] = '琼海市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4614'] = '琼中黎族苗族自治县';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4615'] = '屯昌县';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4616'] = '万宁市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4617'] = '文昌市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0046']['4618'] = '五指山市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0050'] = {};
+				provincesCities['0050']['5000'] = '市辖区';
+			
+		
+		
+	
+		
+			
+				provincesCities['0050']['5000'] = '县';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0050']['5000'] = '市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0051'] = {};
+				provincesCities['0051']['5101'] = '成都市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5102'] = '巴中市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5103'] = '达川市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5104'] = '德阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5105'] = '广安市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5106'] = '广元市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5107'] = '乐山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5108'] = '凉山彝族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5109'] = '眉山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5110'] = '绵阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5111'] = '南充市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5112'] = '内江市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5113'] = '攀枝花市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5114'] = '遂宁市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5115'] = '雅安市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5116'] = '宜宾市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5117'] = '自贡市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5118'] = '泸州市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5119'] = '阿坝藏族羌族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5120'] = '甘孜藏族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0051']['5121'] = '资阳市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0052'] = {};
+				provincesCities['0052']['5201'] = '贵阳市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0052']['5202'] = '安顺市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0052']['5203'] = '毕节地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0052']['5204'] = '六盘水市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0052']['5205'] = '铜仁地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0052']['5206'] = '遵义市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0052']['5207'] = '黔东南苗族侗族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0052']['5208'] = '黔南布依族苗族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0052']['5209'] = '黔西南布依族苗族自治州';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0053'] = {};
+				provincesCities['0053']['5301'] = '昆明市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5302'] = '西双版纳傣族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5303'] = '保山地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5304'] = '楚雄彝族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5305'] = '大理白族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5306'] = '德宏傣族景颇族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5307'] = '红河哈尼族彝族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5308'] = '丽江地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5309'] = '临沧地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5310'] = '怒江傈僳族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5311'] = '曲靖市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5312'] = '思茅地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5313'] = '文山壮族苗族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5314'] = '玉溪市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5315'] = '昭通地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0053']['5317'] = '迪庆藏族自治州';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0054'] = {};
+				provincesCities['0054']['5401'] = '拉萨市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0054']['5402'] = '阿里地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0054']['5403'] = '昌都地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0054']['5404'] = '林芝地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0054']['5405'] = '那曲地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0054']['5406'] = '日喀则地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0054']['5407'] = '山南地区';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0061'] = {};
+				provincesCities['0061']['6101'] = '西安市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0061']['6102'] = '安康市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0061']['6103'] = '宝鸡市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0061']['6104'] = '汉中市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0061']['6105'] = '商洛地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0061']['6106'] = '铜川市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0061']['6107'] = '渭南市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0061']['6108'] = '咸阳市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0061']['6109'] = '延安市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0061']['6110'] = '榆林市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0062'] = {};
+				provincesCities['0062']['6201'] = '兰州市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6202'] = '白银市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6203'] = '定西地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6206'] = '嘉峪关市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6207'] = '金昌市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6208'] = '酒泉地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6210'] = '临夏回族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6211'] = '陇南地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6212'] = '平凉地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6213'] = '庆阳地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6214'] = '天水市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6215'] = '武威地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6216'] = '张掖地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0062']['6217'] = '甘南藏族自治州';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0063'] = {};
+				provincesCities['0063']['6301'] = '西宁市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0063']['6302'] = '海东地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0063']['6302'] = '海北藏族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0063']['6302'] = '黄南藏族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0063']['6302'] = '海南藏族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0063']['6302'] = '果洛藏族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0063']['6302'] = '玉树藏族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0063']['6302'] = '海西蒙古族藏族自治州';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0064'] = {};
+				provincesCities['0064']['6401'] = '银川市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0064']['6403'] = '固原地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0064']['6404'] = '石嘴山市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0064']['6405'] = '吴忠市';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['0065'] = {};
+				provincesCities['0065']['6501'] = '乌鲁木齐市';
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6502'] = '阿克苏地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6503'] = '阿勒泰地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6504'] = '巴音郭楞蒙古自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6505'] = '博尔塔拉蒙古自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6506'] = '昌吉回族自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6507'] = '哈密地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6508'] = '和田地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6509'] = '喀什地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6510'] = '克拉玛依市';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6513'] = '塔城地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6514'] = '吐鲁番地区';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6515'] = '伊犁哈萨克自治州';
+			
+			
+		
+		
+	
+		
+			
+				provincesCities['0065']['6516'] = '克孜勒苏柯尔克孜自治州';
+			
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['2001'] = {};
+				provincesCities['2001']['9901'] = '香港';
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['2002'] = {};
+				provincesCities['2002']['9902'] = '澳门';
+			
+		
+		
+	
+		
+			
+			
+				provincesCities['2003'] = {};
+				provincesCities['2003']['9903'] = '台湾';
+			
+		
+		
+	
+	
+	
+	
+	var provinces = [];
+	
+	
+		
+			provinces[0] = {provinceCode:'0011', provinceName:'北京市'};
+			
+		
+		
+	
+		
+		
+	
+		
+			provinces[1] = {provinceCode:'0012', provinceName:'天津市'};
+			
+		
+		
+	
+		
+		
+	
+		
+			provinces[2] = {provinceCode:'0013', provinceName:'河北省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[3] = {provinceCode:'0014', provinceName:'山西省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[4] = {provinceCode:'0015', provinceName:'内蒙古自治区'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[5] = {provinceCode:'0021', provinceName:'辽宁省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[6] = {provinceCode:'0022', provinceName:'吉林省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[7] = {provinceCode:'0023', provinceName:'黑龙江省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[8] = {provinceCode:'0031', provinceName:'上海市'};
+			
+		
+		
+	
+		
+		
+	
+		
+			provinces[9] = {provinceCode:'0032', provinceName:'江苏省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[10] = {provinceCode:'0033', provinceName:'浙江省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[11] = {provinceCode:'0034', provinceName:'安徽省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[12] = {provinceCode:'0035', provinceName:'福建省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[13] = {provinceCode:'0036', provinceName:'江西省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[14] = {provinceCode:'0037', provinceName:'山东省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[15] = {provinceCode:'0041', provinceName:'河南省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[16] = {provinceCode:'0042', provinceName:'湖北省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[17] = {provinceCode:'0043', provinceName:'湖南省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[18] = {provinceCode:'0044', provinceName:'广东省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[19] = {provinceCode:'0045', provinceName:'广西壮族自治区'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[20] = {provinceCode:'0046', provinceName:'海南省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[21] = {provinceCode:'0050', provinceName:'重庆市'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[22] = {provinceCode:'0051', provinceName:'四川省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[23] = {provinceCode:'0052', provinceName:'贵州省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[24] = {provinceCode:'0053', provinceName:'云南省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[25] = {provinceCode:'0054', provinceName:'西藏自治区'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[26] = {provinceCode:'0061', provinceName:'陕西省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[27] = {provinceCode:'0062', provinceName:'甘肃省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[28] = {provinceCode:'0063', provinceName:'青海省'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[29] = {provinceCode:'0064', provinceName:'宁夏回族自治区'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[30] = {provinceCode:'0065', provinceName:'新疆维吾尔自治区'};
+			
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+		
+	
+		
+			provinces[31] = {provinceCode:'2001', provinceName:'香港特别行政区'};
+			
+		
+		
+	
+		
+			provinces[32] = {provinceCode:'2002', provinceName:'澳门特别行政区'};
+			
+		
+		
+	
+		
+			provinces[33] = {provinceCode:'2003', provinceName:'台湾省'};
+			
+		
+		
+	
